@@ -1,3 +1,4 @@
+
 .clear{
 	clear: both
 }
@@ -31,13 +32,16 @@
     padding-top: 26px;
 }
 .links{
-    padding-top: 26px
+    padding-top: 26px;
+
 }
 
 .links a{
     color: black;
     font-size: 25px;
     border-bottom: 1px solid #dfdfdf;
+    font-family: 'gooddogregular', sans-serif;
+    font-weight: bold;
 }
 
 header {
@@ -47,6 +51,16 @@ hr {
     clear:both;
 
 }
+h1 {
+    font-family: 'gooddogregular', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+   }
+
+h2 {
+    font-family: 'gooddogregular', sans-serif;
+}
+
 
 
 
